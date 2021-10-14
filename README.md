@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Candice!
-- 👀 I’m interested in AI and Machine Learning as well as game development
-- 🌱 I’m currently learning C++, Javascript, and Unreal Engine 4. I'm fluent in Python, HTML, and CSS
+- 👀 I’m interested in AI and Machine Learning, robotics, game development, anything really!
+- 🌱 I’m currently learning C++ and Javascript. I'm fluent in Python, HTML, and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: candice.eve.miller@gmail.com

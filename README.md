@@ -5,4 +5,4 @@
 - 📫 Email: candice.eve.miller@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/candice-eve-miller/
 
-Advice to whomever needs it: When coding make sure you leave the campground cleaner than you found it.
+*When coding, as in life, make sure you leave the campground cleaner than you found it.*
